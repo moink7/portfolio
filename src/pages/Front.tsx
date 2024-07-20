@@ -6,9 +6,12 @@ import { HoverBorderGradient } from "@/components/ui/hover-border-gradient";
 import { FaArrowRight } from "react-icons/fa6";
 
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 
 
 export default function Front() {
+
+    const searchParams = useSearchParams();
   return (  
     <div className='ḥ-auto  w-full  flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0'>
         <WavyBackground className="w-full max-w-7xl mx-auto flex flex-col items-center justify-center h-full ">
