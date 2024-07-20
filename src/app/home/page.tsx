@@ -1,5 +1,4 @@
 "use client"
-import About from '@/pages/About'
 import Contact from '@/pages/Contact'
 import Hero from '@/pages/Hero'
 import NavbarDemo from '@/pages/NavbarDemo'

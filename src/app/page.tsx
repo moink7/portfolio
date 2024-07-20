@@ -1,4 +1,4 @@
-
+"use client"
 import Front from '@/pages/Front'
 import React from 'react'
 import {Suspense} from "react";
