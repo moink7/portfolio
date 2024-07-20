@@ -1,4 +1,4 @@
-
+"use client"
 import {  NavHashLink } from 'react-router-hash-link';
 
 

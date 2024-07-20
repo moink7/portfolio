@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import NavbarDemo from './NavbarDemo'
 import { FaArrowRight } from 'react-icons/fa6'
